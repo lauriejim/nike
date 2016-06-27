@@ -4,10 +4,8 @@ H3E11
 Nike, écris ton histoire.
 =======================
 
-Lien @ <a href="http://jimlaurie.me/nike">http://jimlaurie.me/nike</a>
 
-
-###Team : 
+###Team :
 <table>
   <tr>
     <td valign="middle">Julien Acquaviva</td>
